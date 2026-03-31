@@ -28,7 +28,7 @@ Since these outputs can vary based on the randomness of the data split, use Grid
 ### 5. Evaluate Optimal Model
 Use previously defined functions in order to find the optimal threshold of the optimal model based on the validation set and then display key metrics like recall and average precision score
 Optimal Model Evaluation:
-![Optimal Model Evaluation](images/Screenshot 2026-03-31 152642.png)
+![Optimal Model Evaluation](/images/Screenshot 2026-03-31 152642.png)
 
 ## Installation & Usage
 
