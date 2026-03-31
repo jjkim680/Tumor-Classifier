@@ -28,9 +28,9 @@ Standard accuracy metrics are insufficient for medical diagnostics where a false
 * **Recall:** 95% 
 * **Model Sparsity:** L1 regularization reduced the active feature space by 15%, yielding a leaner model without sacrificing diagnostic sensitivity.
 * **Confusion Matrix:**
-* ![Confusion Matrix](images/confusion_matrix.png)
+![Confusion Matrix](images/confusion_matrix.png)
 * **L1 Precision Recall Curve:**
-* ![L1 Precision Recall Curve](images/l1precisionrecallcurve.png)
+![L1 Precision Recall Curve](images/l1precisionrecallcurve.png)
 
 ## Installation & Usage
 
